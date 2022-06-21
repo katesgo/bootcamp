@@ -1,0 +1,6 @@
+Bootcamp Notes:
+https://stackoverflow.com/ - stuck? code not working?
+w3 schools
+devdocs.io - resource for coding
+shift+windows+s = screenshot
+https://developer.mozilla.org/
